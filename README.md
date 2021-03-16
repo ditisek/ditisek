@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ditisek
+- 👋 Hi, I’m David
 - 👀 I’m interested in technology, python, java and motorcycles
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
