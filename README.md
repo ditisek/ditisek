@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David
-- 👀 I’m interested in technology, python, java and motorcycles. I am a soon to be dad enjoying family life.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing for now till I understand this platform and it's uses better.
+- 👀 I’m interested in technology, python, java and motorcycles. I am a new dad enjoying family life.
+- 🌱 I’m currently programming in Python
+- 💞️ I’m looking to collaborate at the moment.
 - 📫 I can be reached on mooiweerasb@gmail.com
 
 <!---
